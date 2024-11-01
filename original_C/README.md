@@ -1,0 +1,1 @@
+This is a streamlined version of the file_system for the octopos repo found here https://github.com/trusslab/octopos/blob/main/os/file_system.c.
