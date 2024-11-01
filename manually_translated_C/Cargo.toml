@@ -1,5 +1,5 @@
 [package]
-name = "gold_standard"
+name = "manually_translated_C"
 version = "0.1.0"
 edition = "2021"
 
